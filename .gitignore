@@ -1,0 +1,30 @@
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de salida de compilación
+/bin/
+/out/
+
+# Dependencias
+/lib/
+*.iml
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entornos
+*.env
